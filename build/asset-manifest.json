@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ak4abhijith/maxwellgeoatm/static/css/main.2167c44d.css",
+    "main.js": "/ak4abhijith/maxwellgeoatm/static/js/main.339318af.js",
+    "static/js/787.23eb3d17.chunk.js": "/ak4abhijith/maxwellgeoatm/static/js/787.23eb3d17.chunk.js",
+    "index.html": "/ak4abhijith/maxwellgeoatm/index.html",
+    "main.2167c44d.css.map": "/ak4abhijith/maxwellgeoatm/static/css/main.2167c44d.css.map",
+    "main.339318af.js.map": "/ak4abhijith/maxwellgeoatm/static/js/main.339318af.js.map",
+    "787.23eb3d17.chunk.js.map": "/ak4abhijith/maxwellgeoatm/static/js/787.23eb3d17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2167c44d.css",
+    "static/js/main.339318af.js"
+  ]
+}

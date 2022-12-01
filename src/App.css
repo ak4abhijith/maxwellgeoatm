@@ -1,0 +1,64 @@
+.appWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #d6e1ee;
+}
+
+.atmWrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  border-radius: 10px;
+  background-color: #4f46bb;
+  padding: 30px;
+
+}
+
+.headerLabel {
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+input {
+  font-size: 18px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 2px solid #000;
+  padding: 15px;
+}
+
+button {
+  background-color: #fa8f72;
+  color: #333;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+  /* margin-top: 20px; */
+  padding: 15px;
+}
+
+.outputLabel {
+  background-color: #fff;
+  padding: 15px;
+  margin-top: 10px;
+}
+.outLabel{
+  color: #333;
+  font-size: 12px;
+}
+.outLabelHeader{
+  color: #333;
+  font-size: 14px;
+  font-weight: 600;
+  padding-top: 10px;
+  display: block;
+}
+.errorAmount{
+  color: red;
+  font-weight: 600;
+}
